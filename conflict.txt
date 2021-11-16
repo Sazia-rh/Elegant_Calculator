@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 new file for conflict.
+=======
+this file is created for merge conflict.
+>>>>>>> 3198931d3c5a675c3bdb3f17fa74ae38800f18ee
+
+
+
+conflict is resolved.
